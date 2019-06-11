@@ -1,0 +1,2 @@
+?List before rearranging: {10, 55, 12, 14, 10, 55, 14, 13, 11}
+CList after deletion of node: {10, 12, 14, 10, 14, 13, 11, 55, 55}
