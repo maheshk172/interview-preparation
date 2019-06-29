@@ -18,48 +18,48 @@ public class DecimalToRomanConversion {
 //        String romanValue = getRomanInSimpleWay(value);
 //        System.out.println("Roman Value: " + romanValue);
         String romanValue = "MMMDCCXXIV";
-        int decimalValue = getDecimalFromNumeral(romanValue);
-        System.out.println("Roman Value: " + decimalValue);
+//        int decimalValue = getDecimalFromNumeral(romanValue);
+//        System.out.println("Roman Value: " + decimalValue);
 
         return romanValue;
     }
 
-    public static int getDecimalFromNumeral(String value) {
-        final String[] numeralsArray = new String[] {"M","CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I"};
-        final List<String> numberalList = Arrays.asList(numeralsArray);
-        final Integer[] values = new Integer[] {1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1};
-        final List<Integer> valuesList = Arrays.asList(values);
-
-        int i = 0;
-        int totalCount = 0;
-        for(int j=0; j<value.length();) {
-            if(j <= value.length() - 2) {
-                String firstTwoChars = value.substring(j, j+2);
-                int indexInList = numberalList.indexOf(firstTwoChars);
-                if(indexInList >= 0) {
-                    totalCount = totalCount + valuesList.get(indexInList); 
-                    indexInList = numberalList.indexOf(firstChar);
-                    if(indexInList >= 0) {
-                        totalCount = totalCount + valuesList.get(indexInList);
-                        j = j + 1;
-                    } else {
-                        throw new IllegalArgumentException("Its not a roman String");
-                    }
-                }
-            } else {
-                String firstChar = value.substring(j, j+1);
-                int indexInList = numberalList.indexOf(firstChar);
-                if(indexInList >= 0) {
-                    totalCount = totalCount + valuesList.get(indexInList);
-                    j = j + 1;
-                } else {
-                    throw new IllegalArgumentException("Its not a roman String");
-                }
-            }
-        }
-
-        return totalCount;
-    }
+//    public static int getDecimalFromNumeral(String value) {
+//        final String[] numeralsArray = new String[] {"M","CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I"};
+//        final List<String> numberalList = Arrays.asList(numeralsArray);
+//        final Integer[] values = new Integer[] {1000, 900, 500, 400, 100, 90, 50, 40, 10, 9, 5, 4, 1};
+//        final List<Integer> valuesList = Arrays.asList(values);
+//
+//        int i = 0;
+//        int totalCount = 0;
+//        for(int j=0; j<value.length();) {
+//            if(j <= value.length() - 2) {
+//                String firstTwoChars = value.substring(j, j+2);
+//                int indexInList = numberalList.indexOf(firstTwoChars);
+//                if(indexInList >= 0) {
+//                    totalCount = totalCount + valuesList.get(indexInList);
+//                    indexInList = numberalList.indexOf(firstChar);
+//                    if(indexInList >= 0) {
+//                        totalCount = totalCount + valuesList.get(indexInList);
+//                        j = j + 1;
+//                    } else {
+//                        throw new IllegalArgumentException("Its not a roman String");
+//                    }
+//                }
+//            } else {
+//                String firstChar = value.substring(j, j+1);
+//                int indexInList = numberalList.indexOf(firstChar);
+//                if(indexInList >= 0) {
+//                    totalCount = totalCount + valuesList.get(indexInList);
+//                    j = j + 1;
+//                } else {
+//                    throw new IllegalArgumentException("Its not a roman String");
+//                }
+//            }
+//        }
+//
+//        return totalCount;
+//    }
 
     public static String getRomanInSimpleWay(int value) {
         StringBuilder builder = new StringBuilder();

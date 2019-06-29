@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="iview-problems.iview-byte-by-byte-problems.main" target="1.8" />
+      <module name="iview-problems.iview-byte-by-byte-problems.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
