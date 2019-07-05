@@ -2,37 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="18b7e7d4-607d-432d-b219-fac184f9830a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iview-byte-by-byte-problems/src/main/java/com/bytebybyte/basic/AngleBetweenHands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iview-byte-by-byte-problems/src/main/java/com/bytebybyte/basic/BinarySearchTreeExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iview-byte-by-byte-problems/src/main/java/com/bytebybyte/basic/FizzOFizz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iview-byte-by-byte-problems/src/main/java/com/bytebybyte/basic/IntegerToRoman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iview-byte-by-byte-problems/src/main/java/com/bytebybyte/basic/MediansOfArraysExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iview-byte-by-byte-problems/src/main/java/com/bytebybyte/basic/PriorityQueueExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iview-byte-by-byte-problems/src/main/java/com/bytebybyte/basic/SwapValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iview-byte-by-byte-problems/src/main/java/com/bytebybyte/basic/linkedList/CircularLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iview-byte-by-byte-problems/src/main/java/com/bytebybyte/basic/linkedList/DoublyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iview-byte-by-byte-problems/src/main/java/com/bytebybyte/basic/linkedList/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iview-byte-by-byte-problems/src/main/java/com/bytebybyte/basic/linkedList/SingleLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iview-byte-by-byte-problems/src/main/java/com/bytebybyte/datastructures/StackWithArrayExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iview-java8-preps/src/main/java/com/iview/threads/advanced/BlockingQueueExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iview-java8-preps/src/main/java/com/iview/threads/basic/FindPrimes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iview-java8-preps/src/main/java/com/iview/threads/basic/IntToCharExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iview-java8-preps/src/main/java/com/iview/threads/basic/ThreadExampleClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iview-java8-preps/src/main/java/com/iview/threads/executorService/ExecutorInvokeAllExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iview-java8-preps/src/main/java/com/iview/threads/executorService/ExecutorInvokeAnyExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/iview-java8-preps/src/main/java/com/iview/threads/executorService/ExecutorServiceExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iview-problems/src/main/java/com/iview/liftmanagement/Lift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iview-problems/src/main/java/com/iview/liftmanagement/LiftController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iview-problems/src/main/java/com/iview/liftmanagement/LiftDirections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iview-problems/src/main/java/com/iview/liftmanagement/LiftRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iview-problems/src/main/java/com/iview/liftmanagement/LiftScheduler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/iview-problems/src/main/java/com/iview/liftmanagement/models/Floor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iview-data-structures/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/iview-data-structures/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iview-data-structures/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/iview-data-structures/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iview-java8-preps/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/iview-java8-preps/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iview-java8-preps/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/iview-java8-preps/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iview-problems/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/iview-problems/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iview-problems/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/iview-problems/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iview-problems/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/iview-problems/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/iview-problems/src/main/java/com/iview/transferwise/DecimalToRomanConversion.java" beforeDir="false" afterPath="$PROJECT_DIR$/iview-problems/src/main/java/com/iview/transferwise/DecimalToRomanConversion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/iview-byte-by-byte-problems/out/production/classes/META-INF/iview-byte-by-byte-problems.main.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/iview-java8-preps/out/production/classes/META-INF/iview-java8-preps.main.kotlin_module" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/iview-java8-preps/.gradle/" />
@@ -89,15 +67,63 @@
     <favorites_list name="iview-data-structures" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iview-problems/src/main/java/com/iview/liftmanagement/LiftController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+              <folding>
+                <element signature="e#718#719#0" expanded="true" />
+                <element signature="e#759#760#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/iview-problems/src/main/java/com/iview/liftmanagement/LiftScheduler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="88" selection-start-line="88" selection-end-line="88" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iview-problems/src/main/java/com/iview/liftmanagement/Lift.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="265">
+              <caret line="66" selection-start-line="66" selection-end-line="66" />
+              <folding>
+                <element signature="e#240#249#0" expanded="true" />
+                <element signature="e#380#381#0" expanded="true" />
+                <element signature="e#420#421#0" expanded="true" />
+                <element signature="e#1368#1369#0" expanded="true" />
+                <element signature="e#1416#1417#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>static</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -105,14 +131,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/iview-java8-preps/src/main/java/com/iview/java8/methodreferenceexample/MethodReferencesExample.java" />
-        <option value="$PROJECT_DIR$/iview-java8-preps/src/main/java/com/iview/java8/methodreferenceexample/User.java" />
-        <option value="$PROJECT_DIR$/iview-java8-preps/src/main/java/com/iview/java8/functionalInterfaceExample/MyRunnableInterface.java" />
-        <option value="$PROJECT_DIR$/iview-java8-preps/src/main/java/com/iview/java8/functionalInterfaceExample/FunctionalInterfaceExample.java" />
-        <option value="$PROJECT_DIR$/iview-java8-preps/src/main/java/com/iview/java8/StreamExample.java" />
-        <option value="$PROJECT_DIR$/iview-java8-preps/src/main/java/com/iview/java8/streams/StreamExample.java" />
-        <option value="$PROJECT_DIR$/iview-java8-preps/src/main/java/com/iview/java8/streams/AdditionalMethodsInCollectionExample.java" />
-        <option value="$PROJECT_DIR$/iview-problems/src/main/java/com/iview/problems/array/ArrayCompareExample.java" />
         <option value="$PROJECT_DIR$/iview-problems/src/main/java/com/iview/problems/array/SumOfVeryBigNumbers.java" />
         <option value="$PROJECT_DIR$/iview-problems/src/main/java/com/iview/problems/array/DiagonalDifference.java" />
         <option value="$PROJECT_DIR$/iview-problems/src/main/java/com/iview/problems/array/DiagonalDifferenceExample.java" />
@@ -156,13 +174,21 @@
         <option value="$PROJECT_DIR$/iview-byte-by-byte-problems/src/main/java/com/bytebybyte/basic/BinarySearchTreeExample.java" />
         <option value="$PROJECT_DIR$/iview-byte-by-byte-problems/src/main/java/com/bytebybyte/basic/StackWithArrayExample.java" />
         <option value="$PROJECT_DIR$/iview-byte-by-byte-problems/src/main/java/com/bytebybyte/datastructures/StackWithArrayExample.java" />
+        <option value="$PROJECT_DIR$/iview-problems/src/main/java/com/iview/LiftController.java" />
+        <option value="$PROJECT_DIR$/iview-problems/src/main/java/com/iview/liftmanagement/LiftDirections.java" />
+        <option value="$PROJECT_DIR$/iview-problems/src/main/java/com/iview/liftmanagement/Floor.java" />
+        <option value="$PROJECT_DIR$/iview-problems/src/main/java/com/iview/liftmanagement/models/Floor.java" />
+        <option value="$PROJECT_DIR$/iview-problems/src/main/java/com/iview/liftmanagement/LiftRequest.java" />
+        <option value="$PROJECT_DIR$/iview-problems/src/main/java/com/iview/liftmanagement/LiftController.java" />
+        <option value="$PROJECT_DIR$/iview-problems/src/main/java/com/iview/liftmanagement/Lift.java" />
+        <option value="$PROJECT_DIR$/iview-problems/src/main/java/com/iview/liftmanagement/LiftScheduler.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="60" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="64" />
     <option name="y" value="23" />
-    <option name="width" value="1380" />
+    <option name="width" value="1374" />
     <option name="height" value="877" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -177,160 +203,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="iview-data-structures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iview-byte-by-byte-problems" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="iview-data-structures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iview-byte-by-byte-problems" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="iview-data-structures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iview-byte-by-byte-problems" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="iview-data-structures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iview-byte-by-byte-problems" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="iview-data-structures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iview-byte-by-byte-problems" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="bytebybyte" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="iview-data-structures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iview-byte-by-byte-problems" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="bytebybyte" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="iview-data-structures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iview-byte-by-byte-problems" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="bytebybyte" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
-              <item name="BinarySearchTreeExample.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="iview-data-structures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iview-byte-by-byte-problems" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="bytebybyte" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
-              <item name="BinarySearchTreeExample.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-              <item name="BinarySearchTreeExample" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="iview-data-structures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iview-byte-by-byte-problems" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="bytebybyte" type="462c0819:PsiDirectoryNode" />
-              <item name="datastructures" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="iview-data-structures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iview-data-structures" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="iview-data-structures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iview-data-structures" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="iview-data-structures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iview-data-structures" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="iview-data-structures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iview-data-structures" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="iview-data-structures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iview-data-structures" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="list" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="iview-data-structures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iview-java8-preps" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="iview-data-structures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iview-java8-preps" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="iview-data-structures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iview-java8-preps" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="iview-data-structures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iview-java8-preps" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="iview-data-structures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iview-java8-preps" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="iview" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="iview-data-structures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iview-java8-preps" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="iview" type="462c0819:PsiDirectoryNode" />
-              <item name="java8" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="iview-data-structures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="iview-java8-preps" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="iview" type="462c0819:PsiDirectoryNode" />
-              <item name="threads" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="iview-data-structures" type="b2602c69:ProjectViewProjectNode" />
               <item name="iview-problems" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
@@ -366,7 +243,65 @@
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="iview" type="462c0819:PsiDirectoryNode" />
-              <item name="array" type="462c0819:PsiDirectoryNode" />
+              <item name="liftmanagement" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iview-data-structures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iview-problems" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="iview" type="462c0819:PsiDirectoryNode" />
+              <item name="liftmanagement" type="462c0819:PsiDirectoryNode" />
+              <item name="Lift" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="iview-data-structures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iview-problems" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="iview" type="462c0819:PsiDirectoryNode" />
+              <item name="liftmanagement" type="462c0819:PsiDirectoryNode" />
+              <item name="LiftScheduler" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="iview-data-structures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iview-problems" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="iview" type="462c0819:PsiDirectoryNode" />
+              <item name="liftmanagement" type="462c0819:PsiDirectoryNode" />
+              <item name="LiftController.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="iview-data-structures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iview-problems" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="iview" type="462c0819:PsiDirectoryNode" />
+              <item name="liftmanagement" type="462c0819:PsiDirectoryNode" />
+              <item name="LiftController.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="LiftRequestSender" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="iview-data-structures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iview-problems" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="iview" type="462c0819:PsiDirectoryNode" />
+              <item name="liftmanagement" type="462c0819:PsiDirectoryNode" />
+              <item name="LiftController.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="LiftController" type="1a9f42e2:ClassTreeNode" />
+            </path>
+            <path>
+              <item name="iview-data-structures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="iview-problems" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="iview-data-structures" type="b2602c69:ProjectViewProjectNode" />
@@ -389,6 +324,23 @@
               <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
               <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iview-data-structures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="iview-data-structures" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lang" type="462c0819:PsiDirectoryNode" />
+              <item name="Math" type="1a9f42e2:ClassTreeNode" />
             </path>
             <path>
               <item name="iview-data-structures" type="b2602c69:ProjectViewProjectNode" />
@@ -405,26 +357,19 @@
               <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="Arrays" type="1a9f42e2:ClassTreeNode" />
-            </path>
-            <path>
-              <item name="iview-data-structures" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="Stack" type="1a9f42e2:ClassTreeNode" />
+              <item name="ArrayList" type="1a9f42e2:ClassTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/iview-byte-by-byte-problems/src/main/java/com/bytebybyte" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/iview-problems/src/main/java/com/iview/liftmanagement" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -435,6 +380,9 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.bytebybyte.basic.linkedList" />
       <recent name="com.iview.java8.staticexample" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.iview.liftmanagement" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -449,7 +397,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StackWithArrayExample">
+  <component name="RunManager" selected="Application.LiftController">
     <configuration name="BinarySearchTreeExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bytebybyte.basic.BinarySearchTreeExample" />
       <module name="iview-byte-by-byte-problems.main" />
@@ -476,12 +424,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MediansOfArraysExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.bytebybyte.basic.MediansOfArraysExample" />
-      <module name="iview-byte-by-byte-problems.main" />
+    <configuration name="LiftController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.iview.liftmanagement.LiftController" />
+      <module name="iview-problems.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.bytebybyte.basic.*" />
+          <option name="PATTERN" value="com.iview.liftmanagement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -517,11 +465,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LiftController" />
         <item itemvalue="Application.StackWithArrayExample" />
         <item itemvalue="Application.BinarySearchTreeExample" />
         <item itemvalue="Application.PriorityQueueExample" />
         <item itemvalue="Application.IntegerToRoman" />
-        <item itemvalue="Application.MediansOfArraysExample" />
       </list>
     </recent_temporary>
   </component>
@@ -539,12 +487,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="60" y="23" width="1380" height="877" extended-state="0" />
+    <frame x="60" y="23" width="1380" height="877" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="Favorites" order="1" sideWeight="0.5046211" side_tool="true" weight="0.09194631" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info id="Project" order="3" sideWeight="0.49537894" visible="true" weight="0.30792227" />
+      <window_info id="Project" order="3" sideWeight="0.49537894" visible="true" weight="0.12780268" />
       <window_info id="Image Layers" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="UI Designer" order="6" />
@@ -554,12 +503,12 @@
       <window_info anchor="bottom" id="Build" order="3" weight="0.32738853" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Version Control" order="5" />
-      <window_info anchor="bottom" id="Find" order="6" />
-      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.51718986" weight="0.19490446" />
+      <window_info anchor="bottom" id="Find" order="6" sideWeight="0.49925262" weight="0.3299363" />
+      <window_info anchor="bottom" id="Run" order="7" sideWeight="0.29820627" weight="0.6101911" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" />
-      <window_info anchor="bottom" id="Debug" order="11" sideWeight="0.48281017" side_tool="true" weight="0.2878981" />
+      <window_info anchor="bottom" id="Debug" order="11" sideWeight="0.5007474" side_tool="true" weight="0.87388533" />
       <window_info anchor="right" id="Palette&#9;" order="0" />
       <window_info anchor="right" id="Maven" order="1" />
       <window_info anchor="right" id="Gradle" order="2" weight="0.32884902" />
@@ -827,6 +776,12 @@
           <properties />
           <option name="timeStamp" value="147" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/iview-problems/src/main/java/com/iview/liftmanagement/LiftScheduler.java</url>
+          <line>88</line>
+          <properties />
+          <option name="timeStamp" value="184" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
@@ -845,6 +800,7 @@
         <watch expression="node.compareTo(head)" />
         <watch expression="this.priority.getPriority()" />
         <watch expression="((QueueNode)o).priority.getPriority()" />
+        <watch expression="this" />
       </configuration>
     </watches-manager>
   </component>
@@ -880,53 +836,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/iview-java8-preps/src/main/java/com/iview/java8/interfaceexample/CircularShape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/iview-java8-preps/src/main/java/com/iview/java8/interfaceexample/StaticMethodExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="52" lean-forward="true" selection-start-line="17" selection-start-column="52" selection-end-line="17" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/iview-java8-preps/src/main/java/com/iview/java8/methodreferenceexample/MethodReferencesExample.java" />
-    <entry file="file://$PROJECT_DIR$/iview-java8-preps/src/main/java/com/iview/java8/methodreferenceexample/User.java" />
-    <entry file="file://$PROJECT_DIR$/iview-java8-preps/src/main/java/com/iview/java8/functionalInterfaceExample/MyRunnableInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-          <folding>
-            <element signature="e#116#117#0" expanded="true" />
-            <element signature="e#152#153#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/iview-java8-preps/src/main/java/com/iview/java8/functionalInterfaceExample/FunctionalInterfaceExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-          <folding>
-            <element signature="e#232#233#0" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/iview-java8-preps/src/main/java/com/iview/java8/streams.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/util/function/Predicate.java" />
-    <entry file="file://$PROJECT_DIR$/iview-problems/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/iview-java8-preps/src/main/java/com/iview/java8/streams/AdditionalMethodsInCollectionExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
@@ -1049,19 +958,6 @@
           <folding>
             <element signature="e#310#311#0" expanded="true" />
             <element signature="e#338#339#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Math.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="771" column="25" selection-start-line="771" selection-start-column="25" selection-end-line="771" selection-end-column="25" />
-          <folding>
-            <element signature="e#18056#18057#0" expanded="true" />
-            <element signature="e#18138#18139#0" expanded="true" />
-            <element signature="e#32010#32011#0" expanded="true" />
-            <element signature="e#32095#32096#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1282,6 +1178,101 @@
           <caret line="100" column="37" selection-start-line="100" selection-start-column="23" selection-end-line="100" selection-end-column="37" />
           <folding>
             <element signature="method#inOrderTraversalWithoutRecursion#0;class#BinarySearchTreeExample#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUIDE_README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iview-problems/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iview-problems/src/main/java/com/iview/liftmanagement/LiftDirections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iview-problems/src/main/java/com/iview/liftmanagement/models/Floor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iview-problems/src/main/java/com/iview/liftmanagement/LiftRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/lang/Math.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="894">
+          <caret line="771" column="25" selection-start-line="771" selection-start-column="25" selection-end-line="771" selection-end-column="25" />
+          <folding>
+            <element signature="e#18056#18057#0" expanded="true" />
+            <element signature="e#18138#18139#0" expanded="true" />
+            <element signature="e#32010#32011#0" expanded="true" />
+            <element signature="e#32095#32096#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_121.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-411">
+          <caret line="374" column="24" selection-start-line="374" selection-start-column="24" selection-end-line="374" selection-end-column="24" />
+          <folding>
+            <element signature="e#13541#13542#0" expanded="true" />
+            <element signature="e#13596#13597#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iview-problems/src/main/java/com/iview/liftmanagement/LiftController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="5" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="e#718#719#0" expanded="true" />
+            <element signature="e#759#760#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iview-problems/src/main/java/com/iview/liftmanagement/Lift.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+          <folding>
+            <element signature="e#240#249#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+            <element signature="e#1368#1369#0" expanded="true" />
+            <element signature="e#1416#1417#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/iview-problems/src/main/java/com/iview/liftmanagement/LiftScheduler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="88" selection-start-line="88" selection-end-line="88" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
