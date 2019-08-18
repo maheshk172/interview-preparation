@@ -28,7 +28,7 @@ public class Lift implements Runnable {
 
             try {
                 Thread.sleep(5000);
-                System.out.println("Lift: [" + liftName + "] Timer sleeping for 1 second");
+                // System.out.println("Lift: [" + liftName + "] Timer sleeping for 5 second");
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }

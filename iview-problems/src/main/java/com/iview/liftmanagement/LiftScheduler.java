@@ -3,7 +3,7 @@ package com.iview.liftmanagement;
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.Queue;
-
+import java.util.Random;
 
 
 public class LiftScheduler extends Thread{
@@ -24,6 +24,7 @@ public class LiftScheduler extends Thread{
         // Starting all Lifts
         for(Lift lift: lifts) {
             lift = new Lift("Lift-" + count);
+            lift.setDiretion(LiftDirections.UP);
             lift.setKeepLiftRunning(true);
             lifts[count-1] = lift;
             count++;
@@ -91,8 +92,9 @@ public class LiftScheduler extends Thread{
             tempLifts.toArray(filteredLifts);
             return filteredLifts;
         } else {
+            // THIS IS A HACK, SOMEHOW THE LIFT IS NOT SETTING THE DEFAULT DIRECTIONS
             Lift[] filteredLifts = new Lift[1];
-            filteredLifts[0] = lifts[0];
+            filteredLifts[0] = lifts[new Random().nextInt(3)];
             return filteredLifts;
         }
 
